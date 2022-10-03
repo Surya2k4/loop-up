@@ -191,10 +191,12 @@ body {
 }
 
 .bottom-container {
+  margin: auto;
   margin-bottom: 150px;
   position: relative;
+  display: flex;
   top: 50px;
-  text-align: center;
+  justify-content:  center;
 }
 
 .btn {
@@ -246,13 +248,13 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: white;
-    font-size: 30px;
+    font-size: 1.5rem;
     width: 100%;
   }
 
   .header-nav .branding img {
     display: inline-block;
-    width: 8rem;
+    width: 6rem;
     padding: 0px 0;
   }
 
