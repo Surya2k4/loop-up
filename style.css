@@ -118,8 +118,8 @@ body {
   width: 20rem;
   top: 200px;
   left: 50%;
-  margin-top: 50px;
-  margin-bottom: 80px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   transform: translate(-50%, -50%);
   /*  float:center;*/
 }
