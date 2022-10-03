@@ -196,14 +196,13 @@ body {
   position: relative;
   display: flex;
   top: 50px;
-  justify-content:  center;
+  justify-content: center;
 }
 
 .btn {
   font-size: 1.4rem;
   color: #eeeeee;
-  transition: background-color 0.3s;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s;
   text-decoration: none;
   padding: .75rem 1.25rem;
   border-radius: 12px;
